@@ -6,7 +6,7 @@ This project leverages Tableau to transform raw customer data into actionable bu
 ## Goal
 The main objective is to provide stakeholders with a deeper understanding of customer behavior, highlight retention challenges, and uncover opportunities for growth through dynamic data visualization.
 
-## Dataset (Kaggle)
+## Dataset
 The dataset was sourced from Kaggle and contains customer-level data including demographics, transaction history, and product interactions across multiple regions.
 
 ## Process
